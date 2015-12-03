@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dip"
+    android:id="@+id/layout_root">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Servername" />
+    <EditText
+        android:id="@+id/txt"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:singleLine="true" />
+<!--<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="SiteNames"
+        android:visibility="invisible" />-->
+<!--<Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinnerSite1"
+        android:layout_weight="7"
+        android:padding="20dp"
+        android:visibility="invisible" />-->
+<!--  Email Label -->
+<!--  Password Label -->
+<!-- Login button -->
+<!--<RelativeLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout1">-->
+    <Button
+        android:id="@+id/btn1"
+        android:text="submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="cancel" />
+<!--</RelativeLayout>-->
+</LinearLayout>

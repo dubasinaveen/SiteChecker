@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Site Health Check</string>
+	<string name="ApplicationPools">Application Pools :</string>
+	<string name="DefaultAppPool">Default App Pool</string>
+	<string name="NetDispatcherPool">NetDispatcher</string>
+	<string name="WebRequestDesc">Check Health</string>
+	<string name="RecycleDesc">Restart</string>
+	<string name="DumpDesc">Dump</string>
+	<string name="MemoryDesc">Memory Graph</string>
+	<string name="CPUDesc">CPU Graph</string>
+	<string name="Site">Site </string>
+	<string name ="MemoryText1">MemoryText1</string>
+  <string name ="MemoryText2">MemoryText2</string>
+  <string name ="MemoryText3">MemoryText3</string>
+  <string name ="CPUText1">CPUText1</string>
+  <string name ="CPUText2">CPUText2</string>
+  <string name ="CPUText3">CPUText3</string>
+</resources>
