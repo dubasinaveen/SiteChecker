@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+  android:oneshot="false">
+  <!--<item android:drawable="@drawable/red" android:duration="2000" />
+	<item android:drawable="@drawable/red_yellow" android:duration="2000" />-->
+  <item android:drawable="@drawable/settings" android:duration="500" />
+  <item android:drawable="@drawable/settings1" android:duration="500" />
+  <item android:drawable="@drawable/settings2" android:duration="500" />
+
+  <item android:drawable="@drawable/settings3" android:duration="500" />
+  <item android:drawable="@drawable/settings4" android:duration="500" />
+  <item android:drawable="@drawable/settings" android:duration="500" />
+
+  <item android:drawable="@drawable/settings5" android:duration="500" />
+  <item android:drawable="@drawable/settings6" android:duration="500" />
+  <item android:drawable="@drawable/settings7" android:duration="500" />
+  <item android:drawable="@drawable/settings8" android:duration="500" />
+  <item android:drawable="@drawable/settings9" android:duration="500" />
+  <item android:drawable="@drawable/settings10" android:duration="500" />
+  <item android:drawable="@drawable/settings11" android:duration="500" />
+  <item android:drawable="@drawable/settings12" android:duration="500" />
+  <item android:drawable="@drawable/settings13" android:duration="500" />
+  <item android:drawable="@drawable/settings14" android:duration="500" />
+  <item android:drawable="@drawable/settings15" android:duration="500" />
+  <item android:drawable="@drawable/settings16" android:duration="500" />
+  <item android:drawable="@drawable/settings17" android:duration="500" />
+  <item android:drawable="@drawable/settings18" android:duration="500" />
+  <item android:drawable="@drawable/settings19" android:duration="500" />
+  <item android:drawable="@drawable/settings20" android:duration="500" />
+  <item android:drawable="@drawable/settings21" android:duration="500" />
+
+</animation-list>
